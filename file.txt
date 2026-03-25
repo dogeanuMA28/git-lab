@@ -1,5 +1,9 @@
 This is a very important feature of this project!
 
+<<<<<<< HEAD
 This feature was approved by the big boss.
 
 This feature will be extended a lot in the future.
+=======
+This feature will not be changed in the near future!
+>>>>>>> origin/feature_branch_1
